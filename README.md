@@ -26,7 +26,7 @@ python3 SQLmapAutomatizer.py \
   --log-file sqlmap.log
 ```
 
-NOTE: Cookies are acceptable only without spaces!
+NOTE: Cookies are acceptable only without spaces! You can use Cookie Editor extension save as Header String.
 
 ## Targets example
 
