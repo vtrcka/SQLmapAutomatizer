@@ -3,7 +3,7 @@ SQLmap Automatizer
 
 ## Usage
 
-python SQLmapAutomatizer.py 
+python3 SQLmapAutomatizer.py 
 ```
 --targets TARGETS 
 [--output OUTPUT] 
