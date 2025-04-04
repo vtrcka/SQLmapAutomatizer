@@ -1,0 +1,2 @@
+# SQLmapAutomatizer
+SQLmap Automatizer
