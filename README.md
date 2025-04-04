@@ -4,6 +4,7 @@ SQLmap Automatizer
 ## Usage
 
 python SQLmapAutomatizer.py 
+```
 --targets TARGETS 
 [--output OUTPUT] 
 [--cookie-file COOKIE_FILE] 
@@ -11,8 +12,11 @@ python SQLmapAutomatizer.py
 [--risk RISK] 
 [--log-file LOG_FILE]
 
-Example:
+NOTE: [] = optionial
+```
 
+Example:
+```
 python3 SQLmapAutomatizer.py \
   --targets targets.txt \
   --output report.csv \
@@ -20,6 +24,7 @@ python3 SQLmapAutomatizer.py \
   --level 3 \
   --risk 1 \
   --log-file sqlmap.log
+```
 
 NOTE: Cookies are acceptable only without spaces!
 
