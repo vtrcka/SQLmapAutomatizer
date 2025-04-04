@@ -1,5 +1,6 @@
 # SQLmapAutomatizer
-SQLmap Automatizer
+
+SQLmap Automatizer - automatize testing multi targets and multi parameters with automaic saving result as table in csv output file format.
 
 ## Usage
 
